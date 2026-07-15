@@ -1,0 +1,155 @@
+{
+  "info": {
+    "_postman_id": "b828370d-1977-440f-8636-968abfce8f66",
+    "name": "Warehouse_Inventory_Transfer_Management_System",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "55938644",
+    "_collection_link": "https://go.postman.co/collection/55938644-b828370d-1977-440f-8636-968abfce8f66?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Register",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Login",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Create Warehouse",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get Warehouses",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get Warehouse By ID",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Update Warehouse",
+      "request": {
+        "method": "PUT",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Delete Warehouse",
+      "request": {
+        "method": "DELETE",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Create Product",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get Products",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Update Product",
+      "request": {
+        "method": "PUT",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Search Product",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Create Transfer",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get Transfers",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get Transfer By ID",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Update Transfer",
+      "request": {
+        "method": "PUT",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Warehouse Inventory Report",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Filter by Status",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Filter by Status",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
